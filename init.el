@@ -6,3 +6,7 @@
 ;; and `package-pinned-packages`. Most users will not need or want to do this.
 ;;(add-to-list 'package-archives '("melpa-stable" . "https://stable.melpa.org/packages/") t)
 (package-initialize)a
+
+
+;; start emacs with the window/frame maximized
+(add-to-list 'initial-frame-alist '(fullscreen . maximized))
