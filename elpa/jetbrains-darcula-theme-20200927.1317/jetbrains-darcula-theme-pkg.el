@@ -1,0 +1,2 @@
+;;; Generated package description from /Users/siddharthisaiah/.emacs.d/elpa/jetbrains-darcula-theme-20200927.1317/jetbrains-darcula-theme.el  -*- no-byte-compile: t -*-
+(define-package "jetbrains-darcula-theme" "20200927.1317" "A complete port of the default JetBrains Darcula theme" 'nil :commit "b9b3c39743be5aeba17d4d8e5d379613451ddec6" :authors '(("Ian Y.E. Pan")) :maintainer '("Ian Y.E. Pan") :url "https://github.com/ianpan870102/jetbrains-darcula-emacs-theme")
